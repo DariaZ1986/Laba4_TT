@@ -1,0 +1,40 @@
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\bin\Debug\Krasnyanskaya221327Var1.exe.config
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\bin\Debug\Krasnyanskaya221327Var1.exe
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\bin\Debug\Krasnyanskaya221327Var1.pdb
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.Controller.resources
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.Properties.Resources.resources
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.CopyComplete
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.exe
+D:\Visual Studio\Projects\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.pdb
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\bin\Debug\Krasnyanskaya221327Var1.exe.config
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\bin\Debug\Krasnyanskaya221327Var1.exe
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\bin\Debug\Krasnyanskaya221327Var1.pdb
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.AssemblyReference.cache
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.Controller.resources
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.Properties.Resources.resources
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.GenerateResource.cache
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.CoreCompileInputs.cache
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.csproj.CopyComplete
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.exe
+C:\Users\Zubar\source\repos\Krasnyanskaya221327Var1\obj\Debug\Krasnyanskaya221327Var1.pdb
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\bin\Debug\Krasnyanskaya221327Var1.exe.config
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\bin\Debug\Krasnyanskaya221327Var1.exe
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\bin\Debug\Krasnyanskaya221327Var1.pdb
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.csproj.AssemblyReference.cache
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.Controller.resources
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.Properties.Resources.resources
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.csproj.GenerateResource.cache
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.csproj.CoreCompileInputs.cache
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.csproj.CopyComplete
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.exe
+C:\Users\Zubar\OneDrive\Desktop\лаба4_роботы\obj\Debug\Krasnyanskaya221327Var1.pdb
